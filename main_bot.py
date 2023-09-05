@@ -3,5 +3,5 @@ from aiogram.dispatcher import Dispatcher
 
 import os
 
-bot = Bot(token="5836177128:AAHGoARZp30av7993CspIVGy0Nfe4M9Z64M")
+bot = Bot(token="6381094197:AAH1mVeVHg5Ps81961Yz1S7_tLD4vZusfCU")
 dp = Dispatcher(bot)
